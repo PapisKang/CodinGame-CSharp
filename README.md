@@ -1,2 +1,2 @@
-# CodinGame-CSharp
+# LeetCode-CodinGame
 CodinGame CSharp Solutions
