@@ -1,2 +1,9 @@
-# LeetCode-CodinGame
-CodinGame CSharp Solutions
+
+LeetCode
+========
+
+### LeetCode Algorithm
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
